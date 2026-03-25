@@ -7,7 +7,7 @@
 
 ## The Goal
 
-Build a working Snake game using **only GitHub Copilot** — but in the *right order*, using the right Copilot mode at each stage.
+Build a working Snake game using **only GitHub Copilot** — but in the _right order_, using the right Copilot mode at each stage.
 
 The challenge is not just about the game. It is about learning to use Copilot's different modes purposefully: **Chat → Plan → Agent**, with slash commands and prompt refinement along the way.
 
@@ -40,7 +40,7 @@ The challenge is not just about the game. It is about learning to use Copilot's 
 
 **Mode: GitHub Copilot Chat**
 
-Goal: Understand what you are going to build *before* writing a single line of code.
+Goal: Understand what you are going to build _before_ writing a single line of code.
 
 **Steps:**
 
@@ -59,7 +59,7 @@ Goal: Understand what you are going to build *before* writing a single line of c
 
 **Mode: GitHub Copilot Plan**
 
-Goal: Generate a structured implementation plan *before* writing code.
+Goal: Generate a structured implementation plan _before_ writing code.
 
 **Steps:**
 
@@ -77,7 +77,7 @@ Goal: Generate a structured implementation plan *before* writing code.
 
 **Mode: GitHub Copilot Agent**
 
-Goal: Implement the game *step by step*, one TODO at a time.
+Goal: Implement the game _step by step_, one TODO at a time.
 
 **Steps:**
 
@@ -121,11 +121,11 @@ Before submitting, run through this checklist:
 - [ ] At least one slash command was used and noted in `evidence/phase3-prompt.md`
 - [ ] At least 2 extra features are listed in `evidence/phase4-features.md`
 
-Then submit via the **Google Form** (link shared by your facilitator):
+Then submit via the **Microsoft Form** (link shared by your facilitator):
 
 - Team name
 - **Git teams:** GitHub repo URL
-- **ZIP teams:** Upload your `team-[name]-snake.zip`
+- **ZIP teams:** OneDrive link with `team-[name]-snake.zip`
 - Screenshot of your favourite prompt moment (optional but encouraged)
 
 See `HOW-TO-SUBMIT.md` for full instructions.
@@ -134,15 +134,15 @@ See `HOW-TO-SUBMIT.md` for full instructions.
 
 ## Scoring (100 points)
 
-| Category | Git teams | ZIP teams | Points |
-|---|---|---|---|
-| All 4 evidence files filled in | Required | Required | 20 |
-| 4 phase commits with correct messages | Required | Required | 10 |
-| Game runs and is playable | Required | Required | 30 |
-| Extra features added in Phase 4 | Assessed | Assessed | 20 |
-| Slash command used & documented | `/explain` or `/fix` | same | 10 |
-| Best prompt quality (`phase3-prompt.md`) | Judged | Judged | 10 |
-| **Total** | | | **100** |
+| Category                                 | Git teams            | ZIP teams | Points  |
+| ---------------------------------------- | -------------------- | --------- | ------- |
+| All 4 evidence files filled in           | Required             | Required  | 20      |
+| 4 phase commits with correct messages    | Required             | Required  | 10      |
+| Game runs and is playable                | Required             | Required  | 30      |
+| Extra features added in Phase 4          | Assessed             | Assessed  | 20      |
+| Slash command used & documented          | `/explain` or `/fix` | same      | 10      |
+| Best prompt quality (`phase3-prompt.md`) | Judged               | Judged    | 10      |
+| **Total**                                |                      |           | **100** |
 
 ---
 
